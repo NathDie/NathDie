@@ -31,14 +31,5 @@
 
 # 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=NathDie&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathDie&theme=dracula&hide_border=false)  
 ![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathDie&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Trophées GitHub
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=NathDie&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Dépôts les plus actifs
-
-![Top repos](https://github-contributor-stats.vercel.app/api?username=NathDie&limit=5&theme=dracula&combine_all_yearly_contributions=true)
