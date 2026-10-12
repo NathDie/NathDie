@@ -1,3 +1,7 @@
+# 👋 Salut, moi c'est Nathan
+
+> *Je transforme des idées en applications web solides et en boutiques e-commerce sur mesure, du back Symfony et Magento jusqu'au front Vue et Nuxt.*
+
 # 💫 À propos de moi
 
 🖥️ Développeur Full Stack **PHP** (Symfony, Magento) et **JavaScript** (Vue.js, Nuxt).  
@@ -8,8 +12,15 @@
 
 ## 🌐 Réseaux
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white)](https://www.nathandierickx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-dierickx)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techdev8794)
+
+# 🚀 Projets
+
+- 🏴‍☠️ **[One Piece API](https://www.api-onepiece.com)** : une API REST en libre accès autour de l'univers de One Piece (personnages, équipages, fruits du démon, îles…), utilisée par des développeurs du monde entier.
+- ❤️ **[Téléthon du Pévèle](https://www.telethon-pevele.fr)** : le site du Téléthon de Beuvry-la-Forêt, avec programme, réservation de repas et dons en ligne.
+- 💼 **[Mon portfolio](https://www.nathandierickx.com)** : mes projets, mes services et mon CV.
 
 # 💻 Stack technique
 
